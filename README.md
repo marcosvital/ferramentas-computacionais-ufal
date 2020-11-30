@@ -8,3 +8,5 @@ Se você quiser que o github crie um site básico para o projeto, ele vai usar e
 Os artigos associados estã disponíveis [nesta pasta](https://github.com/marcosvital/ferramentas-computacionais-ufal/tree/main/pasta).
 
 Bla bla bla, editando só pra aparecer no site.
+
+Este projeto segue a licensa Creative Commons [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/legalcode).

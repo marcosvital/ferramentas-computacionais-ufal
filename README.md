@@ -6,3 +6,5 @@ Um arquivo README é o arquivo que contem a "cara" do seu projeto. Você vai us�
 Se você quiser que o github crie um site básico para o projeto, ele vai usar este arquivo para isso.
 
 Os artigos associados estã disponíveis [nesta pasta](https://github.com/marcosvital/ferramentas-computacionais-ufal/tree/main/pasta).
+
+Bla bla bla, editando só pra aparecer no site.
